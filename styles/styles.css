@@ -1,0 +1,6 @@
+
+body{
+    background: url("img/cover.jpeg"); 
+    background-size: cover;
+    background-size: auto;
+  }
